@@ -1,0 +1,8 @@
+{
+  "name": "DemoApp DevContainer",
+  "dockerComposeFile": "docker-compose.yml",
+  "workspaceFolder": "/workspaces/${localWorkspaceFolderBasename}",
+  "remoteEnv": {
+    "GIT_EDITOR": "code --wait"
+  }
+}
